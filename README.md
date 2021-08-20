@@ -12,3 +12,31 @@ Let us work together to achieve our goals!!</h4>
 <h3>3. Categories divided:</h3><h5>The system is divided into structure, their attributes, operations and respective relationships among objects.</h5>
   
 <h3>4. Easy to Function:</h3><h5>Managing all CD DVD, movies, songs, customer, sales, bookings and login.</h5>
+
+<h2>FOLDERS</h2>
+<table>
+  <tr>
+    <th>Sr no.</th>
+    <th>Folder Name</th>
+  </tr>
+  <tr>
+  <td>1.</td>
+  <td>Requirements</td>
+  </tr>
+  <tr>
+  <td>2.</td>
+  <td>Design</td>
+  </tr>
+  <tr>
+  <td>3.</td>
+  <td>Test Plan</td>
+  </tr>
+  <tr>
+  <td>4.</td>
+  <td>Implementation</td>
+  </tr>
+  <tr>
+  <td>5.</td>
+  <td>Images & Videoes</td>
+  </tr>
+  </table>
