@@ -18,25 +18,31 @@ Let us work together to achieve our goals!!</h4>
   <tr>
     <th>Sr no.</th>
     <th>Folder Name</th>
+    <th>Candidature</th>
   </tr>
   <tr>
   <td>1.</td>
   <td>Requirements</td>
+    <td>Chiranthana, Shraddha, Manoj, Ankit, Anil</td>
   </tr>
   <tr>
   <td>2.</td>
   <td>Design</td>
+    <td>Keerthana</td>
   </tr>
   <tr>
   <td>3.</td>
   <td>Test Plan</td>
+    <td>N. Varma, Abhinav</td>
   </tr>
   <tr>
   <td>4.</td>
   <td>Implementation</td>
+    <td>N. Varma, Abhinav, Shraddha, Chiranthana, Keerthana, Manoj, Ankit, Anil </td>
   </tr>
   <tr>
   <td>5.</td>
-  <td>Images & Videoes</td>
+    <td>Images & Videoes</td>
+    <td> Abhinav, N. Varma, Shraddha</td>
   </tr>
   </table>
