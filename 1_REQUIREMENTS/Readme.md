@@ -28,7 +28,7 @@
 
 ## Who:
 
-**TBA**
+**DVD Store management system is a system which is designed to suit your business needs. Basically for small scale industries, It contains various innovative features that attracts the user.**
 
 ## What:
 
