@@ -3,7 +3,6 @@
 #include "string.h"                                                      
 #include "time.h"
 #include "header.h"
-#include "conio.h"
 
 char catagories[][15]={"Movies","Series","Musics","Animated","Adults"};
 
