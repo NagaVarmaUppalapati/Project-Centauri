@@ -1,6 +1,6 @@
 # Requirements
 
-![DVD STORE MANAGEMENT SYSTEM]()
+![DVD STORE MANAGEMENT SYSTEM](https://github.com/abhinavrj/Project-Centauri/blob/main/5_IMAGES_AND_VIDEOS/DVD%20STORE%20MANAGEMENT%20SYSTEM.jpg)
 
 ## Introduction
  - DVD store management system is specially designed for the purpose of adding daily DVD records in a CD/DVD store. It easy to store, user just has to select DVD categories like : Movies, series, musics, animated, adults. Each of the record contains unique DVD id no. which makes easy to search.
