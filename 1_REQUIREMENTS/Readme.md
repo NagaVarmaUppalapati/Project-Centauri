@@ -49,7 +49,7 @@
 # Detail requirements
 
 ## High Level Requirements:
-![High Level Requirements](https://github.com/abhinavrj/Project-Centauri/blob/main/1_REQUIREMENTS/HIGH%20LEVEL%20REQUIREMENTS.pdf)
+![High Level Requirements](https://github.com/abhinavrj/Project-Centauri/blob/main/1_REQUIREMENTS/HIGH%20LEVEL%20REQUIREMENTS.jpg)
 
 
 
