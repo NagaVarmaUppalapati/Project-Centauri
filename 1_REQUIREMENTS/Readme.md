@@ -43,11 +43,11 @@ It offers flexibility
 
 ## Where:
 
-**The system is build in such a way that it should help all types of users like from underage children to adults. Multiple languages DVD’s are available at one place. Excite the customers with various discounts and offers.**
+**The system is build in such a way that it should help all types of users like from children to adults, Multiple languages DVD’s are available at one place, Excite the customers with various discounts and offers.**
 
 ## How:
 
-**Our team of professionals work is always innovating new features to the system in such a way it excites our clients and makes a lot easier to get information about the DVD’s. We assure that our clients will be getting a unique browsing experience. System Keeps posting about current stock and new stocks alert to the user.**
+**Our team of professionals work is always innovating new features to the system in such a way it excites our clients and makes a lot easier to get information about the DVD’s, We assure that our clients will be getting a unique browsing experience, System Keeps posting about current stock and new stocks alert to the user.**
 
 # Detail requirements
 
