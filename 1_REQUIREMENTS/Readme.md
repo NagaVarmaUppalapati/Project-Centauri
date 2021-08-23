@@ -32,19 +32,22 @@
 
 ## What:
 
-**TBA**
+**By recording the details of the DVD’s of all categories it saves time for the users and system Keeps posting updates to the user when DVD’s of latest movies are added to the system, so that user can look into it.**
 
 ## When:
 
-**TBA**
+**It is easy to use. 
+User has options to look into various categories.
+It offers flexibility
+**
 
 ## Where:
 
-**TBA**
+**The system is build in such a way that it should help all types of users like from underage children to adults. Multiple languages DVD’s are available at one place. Excite the customers with various discounts and offers.**
 
 ## How:
 
-**TBA**
+**Our team of professionals work is always innovating new features to the system in such a way it excites our clients and makes a lot easier to get information about the DVD’s. We assure that our clients will be getting a unique browsing experience. System Keeps posting about current stock and new stocks alert to the user.**
 
 # Detail requirements
 
