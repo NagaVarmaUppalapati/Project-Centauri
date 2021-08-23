@@ -54,5 +54,5 @@
 
 
 ##  Low level Requirements:
-![Low Level Requirements](https://github.com/abhinavrj/Project-Centauri/blob/main/1_REQUIREMENTS/LOW%20LEVEL%20REQUIREMENTS.pdf)
+![Low Level Requirements](https://github.com/abhinavrj/Project-Centauri/blob/main/1_REQUIREMENTS/LOW%20LEVEL%20REQUIREMENTS.jpg)
 
