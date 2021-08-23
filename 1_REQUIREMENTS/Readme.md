@@ -56,6 +56,6 @@ Our team of professionals work is always innovating new features to the system i
 
 
 
-##  Low level Requirements:
+##  Low Level Requirements:
 ![Low Level Requirements](https://github.com/abhinavrj/Project-Centauri/blob/main/1_REQUIREMENTS/LOW%20LEVEL%20REQUIREMENTS.jpg)
 
