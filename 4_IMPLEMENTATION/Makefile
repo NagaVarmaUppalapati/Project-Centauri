@@ -34,12 +34,12 @@ endif
 # Run the target even if the matching name exists
 
 all:$(BUILD_DIR)
-	gcc $(INC) $(SRC) -o $(call FixPath,$(BUILD)/$(PROJECT_NAME).$(EXEC))
+	gcc $(INC) $(SRC) -o $(call FixPath,$(BUILD)/$(PROJECT_NAME).exe)
 
 # Call `make run` to run the application
 
 run: all
-	$(call FixPath,$(BUILD)/$(PROJECT_NAME).$(EXEC))
+	$(call FixPath,$(BUILD)/$(PROJECT_NAME).exe)
 
 
 
@@ -47,19 +47,12 @@ run: all
 test:$(BUILD)
 	gcc $(TEST_SRC) $(TEST_INC) -o $(TEST_OUTPUT)
 	./$(TEST_OUTPUT)
-#Coverage
-coverageCheck:${PROJECT_NAME} $(BUILD)
-	gcc -fprofile-arcs -ftest-coverage -fPIC  $(TEST_SRC) $(INC) -o $(TEST_OUTPUT)
-	./$(TEST_OUTPUT)
-	gcov -a $(SRC) -o .
+
 
 # Remove all the built files, invoke by `make clean`
 clean:
 	$(RM) $(BUILD)
-	$(RM) *.gcda 
-	$(RM) *.gcno
-	$(RM) *.gcov
-
+	
 # Create new build folder if not present
 $(BUILD):
 	mkdir build
