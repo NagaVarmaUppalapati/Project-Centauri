@@ -28,26 +28,26 @@
 
 ## Who:
 
-**DVD Store management system is a system which is designed to suit your business needs. Basically for small scale industries, It contains various innovative features that attracts the user.**
+DVD Store management system is a system which is designed to suit your business needs. Basically for small scale industries, It contains various innovative features that attracts the user.
 
 ## What:
 
-**By recording the details of the DVD’s of all categories it saves time for the users and system Keeps posting updates to the user when DVD’s of latest movies are added to the system, so that user can look into it.**
+By recording the details of the DVD’s of all categories it saves time for the users and system Keeps posting updates to the user when DVD’s of latest movies are added to the system, so that user can look into it.
 
 ## When:
 
-**It is easy to use. 
-User has options to look into various categories.
-It offers flexibility
-**
+- It is easy to use. 
+- User has options to look into various categories.
+- It offers flexibility
+
 
 ## Where:
 
-**The system is build in such a way that it should help all types of users like from children to adults, Multiple languages DVD’s are available at one place, Excite the customers with various discounts and offers.**
+The system is build in such a way that it should help all types of users like from children to adults, Multiple languages DVD’s are available at one place, Excite the customers with various discounts and offers.
 
 ## How:
 
-**Our team of professionals work is always innovating new features to the system in such a way it excites our clients and makes a lot easier to get information about the DVD’s, We assure that our clients will be getting a unique browsing experience, System Keeps posting about current stock and new stocks alert to the user.**
+Our team of professionals work is always innovating new features to the system in such a way it excites our clients and makes a lot easier to get information about the DVD’s, We assure that our clients will be getting a unique browsing experience, System Keeps posting about current stock and new stocks alert to the user.
 
 # Detail requirements
 
