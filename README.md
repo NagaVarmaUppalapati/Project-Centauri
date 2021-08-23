@@ -61,7 +61,7 @@ Folder             | Description
   </tr>
   <tr>
   <td>5.</td>
-    <td>Images & Videoes</td>
+    <td>Images & Videos</td>
     <td> Abhinav, Naga Varma, Shraddha</td>
   </tr>
   </table>
