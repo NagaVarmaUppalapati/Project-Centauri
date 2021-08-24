@@ -46,7 +46,7 @@ Folder             | Description
   <tr>
   <td>2.</td>
   <td>Design</td>
-    <td>Keerthana</td>
+    <td>Keerthana, Vijay</td>
   </tr>
   <tr>
   <td>3.</td>
