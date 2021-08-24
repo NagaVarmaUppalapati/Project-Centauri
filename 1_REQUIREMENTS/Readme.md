@@ -5,6 +5,9 @@
 ## Introduction
  - DVD store management system is specially designed for the purpose of adding daily DVD records in a CD/DVD store. It easy to store, user just has to select DVD categories like : Movies, series, musics, animated, adults. Each of the record contains unique DVD id no. which makes easy to search.
 
+## Proposed System
+As this new system will be fully automated, so manual processing will be not required to achieve any task. This system will not only keep records of the cassettes which are being sold under this shop but it will also able to maintain records or their customers and make modifications as and when required. Admin will have the option of getting all the records by using single option provided under the cd shop menu section. To make easy processing work, admin have to only enter the correct option without pressing any other button and this system will identify their choice and take action based on their selected option.
+
 ## BENEFITS
   1. Gaining access to a much wider collection.
    
