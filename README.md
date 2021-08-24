@@ -77,7 +77,7 @@ make run
 ### For Running the test file
 make test
 ### To RUN this Project on console enter password
-Password : pass
+Password : pass.
 
 
 ## Learning Resources
