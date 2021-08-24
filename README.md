@@ -66,16 +66,17 @@ Folder             | Description
   </table>
 
 
-## Contributors List and Summary
-
-SF ID. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
--------|---------|----------------|----------------|---------------|-------------|--------------
-TBA | TBA  | TBA    | TBA     | TBA   | TBA   | TBA        
-
 ## Challenges Faced and How Was It Overcome
 
 1. The use of Makefile was initially difficult. But later with the use of resources, overcame the problem.
 2. Understanding how to add badges using github actions was initially difficult. But later with the use of resources, overcame the problem.
+
+
+# For Running the main application
+make run
+# For Running the test file
+make test
+
 
 ## Learning Resources
 1. [GeeksForGeeks](https://www.geeksforgeeks.org/c-programming-language/)
