@@ -8,6 +8,7 @@
 char catagories[][15]={"Movies","Series","Musics","Animated","Adults"};
 
 FILE *fp,*ft,*fs;
+
 int s;
 char finddvd;
 char password[10]={"pass"};
@@ -195,7 +196,7 @@ printf("[4] Animated\n");
 printf("[5] Adults\n");
 
 
-printf("[7] Back to main menu\n");
+printf("[6] Back to main menu\n");
 
 
 
@@ -205,7 +206,7 @@ printf("Enter your choice:");
 
 scanf("%d",&s);
 
-if(s==7)
+if(s==6)
 
 mainmenu() ;
 
@@ -315,6 +316,7 @@ if(getch()=='y')
 ft=fopen("test.txt","wb+");  
 
 rewind(fp);
+
 
 while(fread(&a,sizeof(a),1,fp)==1)
 
