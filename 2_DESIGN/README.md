@@ -2,7 +2,7 @@
 
 ## High Level Architecture Design 
 ### Architecture Design :
-![Architecture](https://github.com/Keerthana-Basavaraj/Project-Centauri/blob/main/2_DESIGN/Structure%20Diagrams/Image2.jpg)
+![Architecture](https://github.com/Keerthana-Basavaraj/Project-Centauri/blob/main/2_DESIGN/Structure%20Diagrams/Image2.png)
 
 
 ### Usecase Diagram :
