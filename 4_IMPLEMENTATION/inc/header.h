@@ -28,6 +28,4 @@ int t(void);
 
 void Password();
 
-int start();
-
 #endif
