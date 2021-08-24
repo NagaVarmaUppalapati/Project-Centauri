@@ -65,6 +65,9 @@ Folder             | Description
   </tr>
   </table>
 
+## Contribution Details (Screenshot)
+![Contribution Details](https://github.com/abhinavrj/Project-Centauri/blob/main/5_IMAGES_AND_VIDEOS/Contribution%20Details%20Screenshot.png)
+
 
 ## Challenges Faced and How Was It Overcome
 
@@ -73,11 +76,11 @@ Folder             | Description
 
 
 ### For Running the main application
-make run
+- make run
 ### For Running the test file
-make test
+- make test
 ### To RUN this Project on console enter password
-Password : pass
+- Password : pass
 
 
 ## Learning Resources
