@@ -195,7 +195,7 @@ printf("[4] Animated\n");
 printf("[5] Adults\n");
 
 
-printf("[7] Back to main menu\n");
+printf("[6] Back to main menu\n");
 
 
 
@@ -205,7 +205,7 @@ printf("Enter your choice:");
 
 scanf("%d",&s);
 
-if(s==7)
+if(s==6)
 
 mainmenu() ;
 
