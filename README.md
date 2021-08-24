@@ -30,6 +30,8 @@ Folder             | Description
 `3_TEST_PLAN`      | Documents with test plans and procedures
 `4_IMPLEMENTATION` | All code and documentation
 `5_IMAGES_AND_VIDEOS`   | Contains Images And Videos
+`6_REPORT`         | Contains Report
+
 
 <h2>Work Division</h2>
 <table>
@@ -61,7 +63,12 @@ Folder             | Description
   <tr>
   <td>5.</td>
     <td>Images & Videos</td>
-    <td> Abhinav, Naga Varma, Shraddha</td>
+    <td>Abhinav, Naga Varma, Shraddha</td>
+  </tr>
+  <tr>
+  <td>6.</td>
+    <td>Report</td>
+    <td>Shraddha</td>
   </tr>
   </table>
 
