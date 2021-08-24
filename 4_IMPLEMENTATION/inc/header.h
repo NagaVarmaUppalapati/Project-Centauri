@@ -3,7 +3,7 @@
 
 #define RETURNTIME 15
 
-
+//list of function prototype
 void returnfunc(void);
 
 void mainmenu(void);
@@ -27,10 +27,6 @@ int  checkid(int);
 int t(void);
 
 void Password();
-
-void issuerecord();
-
-void loaderanim();
 
 int start();
 
