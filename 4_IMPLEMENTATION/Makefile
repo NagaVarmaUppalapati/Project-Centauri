@@ -5,7 +5,7 @@ PROJECT_NAME = dvd
 BUILD = build
 
 # All source code files
-SRC = dvdmain.c
+SRC = dvdmain.c src/dvd.c
 
 # All test source files
 TEST_SRC = src/dvd.c test/test.c unity/unity.c

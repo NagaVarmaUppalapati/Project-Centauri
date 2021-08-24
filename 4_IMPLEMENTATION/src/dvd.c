@@ -46,15 +46,6 @@ struct meroDate duedate;
 struct dvd a;
 
 
-int start()
-
-{
-system("COLOR 06");
-Password();
-
-getch();
-
-}
 
 void mainmenu()
 

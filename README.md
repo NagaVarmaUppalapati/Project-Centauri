@@ -72,10 +72,12 @@ Folder             | Description
 2. Understanding how to add badges using github actions was initially difficult. But later with the use of resources, overcame the problem.
 
 
-# For Running the main application
+### For Running the main application
 make run
-# For Running the test file
+### For Running the test file
 make test
+### To RUN this Project on console enter password
+Password : pass
 
 
 ## Learning Resources
