@@ -41,7 +41,7 @@ Folder             | Description
   <tr>
   <td>1.</td>
   <td>Requirements</td>
-    <td>Chiranthana, Shraddha, Manoj, Ankit, Anil</td>
+    <td>Chiranthana, Shraddha, Manoj, Ankit, Anil, Abhinav</td>
   </tr>
   <tr>
   <td>2.</td>
